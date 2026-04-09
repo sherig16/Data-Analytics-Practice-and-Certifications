@@ -1,0 +1,2 @@
+-- Task 3: 
+-- Write a query to return the product_type, min_price and max_price columns.
